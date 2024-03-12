@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+}
+
+#um{
+    padding: 30px 0 30px 50px;
+    background-color: #6c42f5
+}
+
+#dois{
+    padding: 30px 0 30px 130px;;
+    background-color: #865fba
+}
+
+#tres{
+    padding: 30px 0 30px 230px;;
+    background-color: #ce7bd4
+}
+
+#quatro{
+    margin-left: 280px;
+    padding: 30px 0 30px 10px;;
+    background-color: #d47ba9
+}
+
+#cinco{
+    padding: 30px 0 30px 350px;;
+    background-color: #d47b7b
+}
+
+#seis{
+    padding: 30px 0 30px 400px;;
+    background-color: #b83737
+}
+
+
+#sete{
+    padding: 30px 0 30px 480px;;
+    background-color: #b89737
+}
+
+p{
+    color: white
+}
